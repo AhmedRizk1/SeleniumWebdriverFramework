@@ -1,0 +1,14 @@
+[
+{
+ 	"firstname" : "Ahmed",
+ 	"lastname" : "Rizk" ,
+ 	"email" : "jeffrey.gulgowski@yahoo.com",
+ 	"password" : "Asd123!@#" ,
+ 	"phoneNumber": "201011111111",
+ 	"address" : "810 Seventh Avenue, New York, NY",
+ 	"city": "New York",
+ 	"state" : "New York",
+ 	"postCode" : "56789"
+}
+
+]
